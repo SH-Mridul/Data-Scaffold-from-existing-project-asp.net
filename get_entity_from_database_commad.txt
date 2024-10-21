@@ -1,0 +1,1 @@
+Scaffold-DbContext "Data Source=DESKTOP-E9D7K5F\SQLEXPRESS;Initial Catalog=CodeFree_Practice_database;Integrated Security=True;Pooling=False;Encrypt=False;TrustServerCertificate=True" Microsoft.EntityFrameworkCore.SqlServer -ContextDir Data -OutputDir Models -DataAnnotations
